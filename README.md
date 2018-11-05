@@ -13,3 +13,5 @@ A <b>C++ Demo</b> showing how to integrate The [Irrlicht 3d](http://irrlicht.sou
 - Press H to Create a Chain.	
 - Press E to Fire a box.	
 - Press space to close.
+
+![](https://github.com/mahmoudgalal/Irrlicht-Bullet-Integration/blob/master/irrlichtbullet.jpg)
