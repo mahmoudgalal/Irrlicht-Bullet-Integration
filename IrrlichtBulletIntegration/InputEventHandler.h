@@ -3,7 +3,9 @@
 ****************************************/
 #pragma once
 
-#include "baseheader.h"
+#include <irrlicht.h>
+using namespace irr;
+using namespace core;
 
 class InputEventHandler :
 	public IEventReceiver
